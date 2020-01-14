@@ -11,9 +11,9 @@ Recursive Analysis python Program
 
 optional arguments:
   -h, --help            show this help message and exit
-  -c, --class_print
-  -d, --def_print
-  -p PATH, --path PATH
+  -c, --class_print     show class list
+  -d, --def_print       show function list
+  -p PATH, --path PATH  root path for analysis
 ```
 
 ## show class list
