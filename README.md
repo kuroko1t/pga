@@ -16,7 +16,10 @@ optional arguments:
   -p PATH, --path PATH
 ```
 
+* show class list
 ![class](https://github.com/kuroko1t/pga/blob/master/doc/class.png)
+
+* show function list
 ![def](https://github.com/kuroko1t/pga/blob/master/doc/def.png)
 
 # Requirement
